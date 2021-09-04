@@ -36,6 +36,6 @@ yarn add morgan
 ```  
 ## :eye: Preview
 
-<img src="demo_img/0.png">
+<img src="demo_img/screenshot (121).png">
     
     
